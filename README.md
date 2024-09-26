@@ -20,7 +20,8 @@ Many people find it challenging to select a cocktail due to the overwhelming var
 ## Project Structure
 
 ### Hardware
-![image](https://github.com/user-attachments/assets/7d0a7388-4b2e-461c-be1e-0a64d76c988b)
+![image](https://github.com/user-attachments/assets/7e162ba6-bd22-40c7-8482-201de7557039)
+
 
 1. **Manufacturing Unit (Level 1)**
    - Components: 2kg Load Cell, HC-SR04 Ultrasonic Sensor
