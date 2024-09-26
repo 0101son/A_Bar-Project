@@ -58,6 +58,6 @@ Many people find it challenging to select a cocktail due to the overwhelming var
 
 ## Contributors
 
-- **Juyeong Son** - Team Leader (Electrical & Electronic Engineering)
-- **Yongkyun Yu** - Design & Interface (Design Management)
-- **Gunhee Lee** - Mechanical Engineering
+- **Juyoung Son** - Team Leader, Software Engineering
+- **Yongkyun Yu** - Hardware Design and Fabrication
+- **Gunhee Lee** - Planning and Prototyping
