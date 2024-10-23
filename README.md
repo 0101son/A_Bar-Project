@@ -1,8 +1,9 @@
 
 # A_Bar, AI Bartender 
-![image](https://github.com/user-attachments/assets/d127a8e9-2bae-4281-8ff8-975ea6787494)
+<img src="https://github.com/user-attachments/assets/d127a8e9-2bae-4281-8ff8-975ea6787494" width="30%" />
 
-**AI Bartender Ava** is an automated cocktail recommendation and serving system that uses AI to provide personalized cocktail options based on user preferences.
+
+**AI Bartender A_Bar** is an automated cocktail recommendation and serving system that uses AI to provide personalized cocktail options based on user preferences.
 
 ## Project Motivation
 
@@ -20,7 +21,7 @@ Many people find it challenging to select a cocktail due to the overwhelming var
 ## Project Structure
 
 ### Hardware
-![image](https://github.com/user-attachments/assets/7e162ba6-bd22-40c7-8482-201de7557039)
+<img src="https://github.com/user-attachments/assets/7e162ba6-bd22-40c7-8482-201de7557039" width="30%" />
 
 
 1. **Manufacturing Unit (Level 1)**
