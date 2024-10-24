@@ -1,6 +1,9 @@
 
 # A_Bar, AI Bartender 
-<img src="https://github.com/user-attachments/assets/d127a8e9-2bae-4281-8ff8-975ea6787494" width="30%" />
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/d127a8e9-2bae-4281-8ff8-975ea6787494" width="35%" />
+  <img src="https://github.com/user-attachments/assets/5dc8cda2-5cd3-4161-aa75-8e85e2078565" width="45%" />
+</p>
 
 
 **AI Bartender A_Bar** is an automated cocktail recommendation and serving system that uses AI to provide personalized cocktail options based on user preferences.
